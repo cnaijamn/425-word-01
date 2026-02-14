@@ -1,0 +1,44 @@
+* {
+  width: 615px;
+}
+
+.btn {
+  padding: 0 5px;
+}
+.btn button {
+  width: 610px;
+  font-size: 20px;
+}
+.btn button:hover {
+  cursor: pointer;
+}
+
+.image {
+  padding: 5px;
+}
+.image .foo {
+  border: 1px solid gray;
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+.image .foo:hover {
+  cursor: pointer;
+}
+
+.name {
+  padding: 0px 5px;
+}
+.name .bar {
+  display: inline-block;
+  line-height: 60px;
+  border: 1px solid gray;
+  padding: 5px;
+  font-size: 20px;
+  width: 290px;
+  height: 44px;
+}
+
+#number {
+  font-size: 20px;
+}
