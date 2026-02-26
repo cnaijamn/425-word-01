@@ -814,7 +814,7 @@ var img_data = [
   { id: "1427", name: "発作", ruby: "ほっさ" },
   { id: "1428", name: "失神", ruby: "しっしん" },
   { id: "1429", name: "てんかん", ruby: "" },
-  { id: "1430", name: "ウリ", ruby: "" },
+  { id: "1430", name: "ウニ", ruby: "" },
   { id: "1431", name: "あわび", ruby: "アワビ" },
   { id: "1432", name: "ヤドカリ", ruby: "" },
   { id: "1433", name: "循環器", ruby: "じゅんかんき" },
